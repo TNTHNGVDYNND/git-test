@@ -36,7 +36,7 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects 🚀
 
 Here are some of my favorite projects:
 
