@@ -1,12 +1,44 @@
 # Hello World!
 
-My name is **Tuanthong Vaidyanond**. I grew up in Bangkok, Thailand. I love going for walks, listening to music 🎵❤️, and exploring creative pursuits. I have worked as a journalist and a cook, and I even ran my own restaurant, **Wirtshauskatze**, in Nürnberg, Germany, where I managed everything from cooking to customer service. It was an incredible experience!
+```yaml
+name: Tuanthong Vaidyanond
+languages: [EN, DE, ภาษาไทย]
+location: Nürnberg, Germany
 
-### Interest
+description:
+  - I am a certified full-stack (MERN) Web Developer with a critical thinking mindset.
+  - Passionate about solving problems in various aspects of life, design, and code development.
 
-I am also a certified full-stack MERN Web Developer with a critical thinking mindset and a passion for solving problems in design and code development. I am constantly learning, practicing, and seeking new opportunities to leverage my skills. Let's connect and see what the future holds!
+fields_of_interests:
+  - Full-Stack Web Development
+  - Data Analytics
+  - UI/UX
+  - App Development
 
-<img src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" alt="Hello World Animation" width="300"/>  
+points:
+  - I am constantly learning, practicing, and seeking opportunities to grow.
+  - My goal is to find a role that leverages my skill set and allows me to collaborate
+  - with a team of motivated and innovative developers.
+
+future_goals:
+  - Create 20+ projects and learn at least 5 new technologies yearly.
+  - Build meaningful products that make a difference.
+
+current_situation: Looking for an internship / Full-Time Job
+
+hobbies:
+  - Art & Design
+  - Architecture
+  - Books
+  - Coding
+  - Listening
+  - Living
+  - Music
+  - Writing
+
+life_motto: Slow it down and see what happens!
+```
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 ---
@@ -22,9 +54,9 @@ I am also a certified full-stack MERN Web Developer with a critical thinking min
 
 ---
 
-## 💻 Skills
-
-Here are some of the technologies and tools I work with:
+$$
+{\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Stack \space \space \color{red}🛠}
+$$
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
