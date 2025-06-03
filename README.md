@@ -82,10 +82,10 @@ Here are some of my favorite projects:
    _Tech Stack:_ HTML, CSS, SASS  
    _GitHub Link:_ [Repository Link](#)
 
-3. **[Project Name 3](#)**  
-   _Description:_ A brief description of the project and its purpose.  
+3. **[Star Wars-themed CRUD API ](#)**  
+   _Description:_ "This project is a Star Wars-themed CRUD API exercise designed to help developers practice building RESTful endpoints, applying validation and error handling, and interacting with a MongoDB database using Mongoose. It serves as a fun and educational way to reinforce backend development skills in a structured, real-world scenario.".  
    _Tech Stack:_ MERN Stack  
-   _GitHub Link:_ [Repository Link](#)
+   _GitHub Link:_ [Repository Link](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
 
 ---
 
@@ -101,10 +101,9 @@ Here are some of my favorite projects:
 
 Feel free to reach out to me on any of the platforms below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_TWITTER)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio.com)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://dropdeaddev-1.onrender.com/)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:tuanthong.vaidyanond@gmail.com)
 
 ---
 
