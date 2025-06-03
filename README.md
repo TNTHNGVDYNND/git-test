@@ -72,15 +72,15 @@ $$
 
 Here are some of my favorite projects:
 
-1. **[Project Name 1](#)**  
-   _Description:_ A brief description of the project and its purpose.  
-   _Tech Stack:_ JavaScript, React, Node.js  
-   _GitHub Link:_ [Repository Link](#)
+1. **[Four Flavors Express - Demo](https://drive.google.com/file/d/1b_ZirKRo9iAmrkRqNXs8_AtI6kHvCfd_/view)**  
+   _Description:_ Berlin, Germany food delivery app mock up by name _ Four Flavors Express, your go-to food delivery platform that brings the best flavors from your favorite restaurants straight to your doorstep. Whether you’re craving local street food, gourmet dishes, or international cuisine, we’ve got you covered.
+   \_Tech Stack:_ MERN stack  
+   _GitHub Link:_ [Repository Link](https://github.com/TVATDCI/Food-Delivery-Service-App?tab=readme-ov-file)
 
-2. **[Project Name 2](#)**  
-   _Description:_ A brief description of the project and its purpose.  
+2. **[Nature](https://github.com/TVATDCI/nature)**  
+   _Description:_ A fully responsive landing page project I built during my early days of learning frontend development — originally coded in April 2024 during my journey through the Advanced CSS & Sass course  
    _Tech Stack:_ HTML, CSS, SASS  
-   _GitHub Link:_ [Repository Link](#)
+   _GitHub Link:_ [Repository Link](https://github.com/TVATDCI/nature)
 
 3. **[Star Wars-themed CRUD API ](https://github.com/TVATDCI/Star-Wars-Character-Data-API)**  
    _Description:_ "This project is a Star Wars-themed CRUD API exercise designed to help developers practice building RESTful endpoints, applying validation and error handling, and interacting with a MongoDB database using Mongoose. It serves as a fun and educational way to reinforce backend development skills in a structured, real-world scenario.".  
