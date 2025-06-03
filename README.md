@@ -82,7 +82,7 @@ Here are some of my favorite projects:
    _Tech Stack:_ HTML, CSS, SASS  
    _GitHub Link:_ [Repository Link](#)
 
-3. **[Star Wars-themed CRUD API ](#)**  
+3. **[Star Wars-themed CRUD API ](https://github.com/TVATDCI/Star-Wars-Character-Data-API)**  
    _Description:_ "This project is a Star Wars-themed CRUD API exercise designed to help developers practice building RESTful endpoints, applying validation and error handling, and interacting with a MongoDB database using Mongoose. It serves as a fun and educational way to reinforce backend development skills in a structured, real-world scenario.".  
    _Tech Stack:_ MERN Stack  
    _GitHub Link:_ [Repository Link](https://github.com/TVATDCI/Star-Wars-Character-Data-API)
