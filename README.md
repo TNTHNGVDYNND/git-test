@@ -65,6 +65,14 @@ $$
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="40" src="https://static.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind CSS"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"></code>
+<code><img height="20" src="https://logo.svgcdn.com/l/codepen.png" alt="CodePen"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" alt="Redux"></code>
+<code><img height="10" src="https://axios-http.com/assets/logo.svg" alt="Axios"></code>
 
 ---
 
