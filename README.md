@@ -39,18 +39,15 @@ hobbies:
 life_motto: Slow it down and see what happens!
 ```
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
 ---
 
 ## 📋 Table of Contents
 
-- [Hello World!](#hello-world)
-  - [📋 Table of Contents](#-table-of-contents)
-  - [💻 Skills](#-skills)
-  - [🚀 Projects](#-projects)
-  - [📊 GitHub Stats](#-github-stats)
-  - [🌐 Let's Connect](#-lets-connect)
+- [📋 Table of Contents](#-table-of-contents)
+- [💻 Skills](#-skills)
+- [🚀 Projects](#-projects)
+- [📊 GitHub Stats](#-github-stats)
+- [🌐 Contacts](#contacts)
 
 ---
 
@@ -68,15 +65,19 @@ $$
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
 <code><img height="40" src="https://static.cdnlogo.com/logos/t/34/tailwind-css.svg" alt="Tailwind CSS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express"></code>
 <code><img height="20" src="https://logo.svgcdn.com/l/codepen.png" alt="CodePen"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" alt="Redux"></code>
 <code><img height="10" src="https://axios-http.com/assets/logo.svg" alt="Axios"></code>
 
 ---
 
-## 🚀 Projects 🚀
+## Projects
+
+**click github link below to find out more about me**
+
+[![GitHub](https://img.shields.io/badge/GitHub-TVATDCI-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://github.com/TVATDCI)
 
 Here are some of my favorite projects:
 
@@ -102,10 +103,12 @@ Here are some of my favorite projects:
 ![Tuanthong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNTHNGVDYNND&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTHNGVDYNND&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=TNTHNGVDYNND&color=blue)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TNTHNGVDYNND&theme=dark" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 ---
 
-## 🌐 Let's Connect
+## Contacts
 
 Feel free to reach out to me on any of the platforms below:
 
