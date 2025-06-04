@@ -98,11 +98,10 @@ Here are some of my favorite projects:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Tuanthong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNTHNGVDYNND&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTHNGVDYNND&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-![Visitor Count](https://komarev.com/ghpvc/?username=TNTHNGVDYNND&color=blue)
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TNTHNGVDYNND&theme=dark" alt="GitHub Streak" />
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
@@ -117,5 +116,9 @@ Feel free to reach out to me on any of the platforms below:
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:tuanthong.vaidyanond@gmail.com)
 
 ---
+
+<p align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=TNTHNGVDYNND&color=blue)</p>
 
 Thank you for visiting my profile! 😊
