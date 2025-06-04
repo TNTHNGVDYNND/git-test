@@ -1,5 +1,7 @@
 # Hello World!
 
+[![GitHub](https://img.shields.io/badge/GitHub-TVATDCI-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://github.com/TVATDCI)
+
 ```yaml
 name: Tuanthong Vaidyanond
 languages: [EN, DE, ภาษาไทย]
@@ -41,13 +43,13 @@ life_motto: Slow it down and see what happens!
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [📋 Table of Contents](#-table-of-contents)
-- [💻 Skills](#-skills)
-- [🚀 Projects](#-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🌐 Contacts](#contacts)
+- [ Skills](#-skills)
+- [ Projects](#-projects)
+- [ GitHub Stats](#-github-stats)
+- [ Contacts](#contacts)
 
 ---
 
@@ -73,7 +75,7 @@ $$
 
 ---
 
-## Projects
+### Projects
 
 **click github link below to find out more about me**
 
@@ -98,16 +100,17 @@ Here are some of my favorite projects:
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
-![Tuanthong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNTHNGVDYNND&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTHNGVDYNND&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TNTHNGVDYNND&theme=dark" alt="GitHub Streak" />
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
+![Tuanthong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNTHNGVDYNND&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TNTHNGVDYNND&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
-## Contacts
+### Contacts
 
 Feel free to reach out to me on any of the platforms below:
 
