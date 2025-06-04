@@ -1,0 +1,269 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: darkgreen;
+  min-height: 100vh;
+}
+
+header {
+    display; flex;
+    justify-items: center;
+}
+
+h1 {
+  color: white;
+  padding: 15px;
+}
+
+header p {
+  font-size: 18px;
+  color: #ffeaea;
+}
+
+header p a:hover {
+  color: lightgreen;
+}
+
+header p a {
+  color: red;
+  text-decoration: underline;
+}
+
+.container {
+  width: 1000px;
+  margin: 30px auto;
+  background-color: darkgray;
+
+  display: grid;
+
+  /* Optionally choose ONE of the two grid setups */
+  /* grid-template-columns: repeat(auto-fit, minmax(250px, 485px)); */
+  grid-template-columns: repeat(2, minmax(250px, 1fr));
+  grid-gap: 30px;
+}
+
+.container .item {
+  padding: 20px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 30px;
+  background-color: red;
+}
+
+/*grid box positioning*/
+
+.container-1 {
+  background-color: #ddd;
+  width: 1000px;
+  margin: 30px auto;
+
+  display: grid;
+  grid-template-rows: repeat(2, 150px);
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+
+.item1 {
+  padding: 20px;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.item1--1 {
+  background-color: orangered;
+  grid-row: 2 / 3;
+  grid-column: 2 / 3;
+}
+
+.item1--2 {
+  background-color: green;
+  grid-column: 1 / -1;
+}
+
+.item1--3 {
+  background-color: violet;
+}
+
+.item1--4 {
+  background-color: palevioletred;
+  grid-column: 1 / 3;
+  grid-row: 2 / 3;
+}
+
+.item1--5 {
+  background-color: royalblue;
+  grid-area: 1 / 3 / 3 / 4;
+}
+
+.item1--6 {
+  background-color: goldenrod;
+  grid-row: 1 / 2;
+  grid-column: 2 / 3;
+}
+
+/*Multiple cells grid layout*/
+/* 
+// METHOD 1: LINE NUMBER
+/*
+.container-2 {
+  width: 1000px;
+  margin: 30px auto;
+
+  display: grid;
+  grid-template-rows: 100px 200px 400px 100px;
+  // grid cells are created with the decoration here. In this case the rows go down from the top > bottom by order from left to right!
+  grid-template-columns: repeat(3, 1fr) 200px;
+  // and the cells here are from left to right. In this case, 3x1fr(1000px-200px/3) and 200px
+
+  grid-gap: 20px; // on both row&column!
+
+  // select all all container's children!
+  & > * {
+    background-color: lightcoral;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+  }
+
+  .header {
+    grid-column: 1 / -1;
+  }
+
+  .sidebar {
+    grid-column: 4 / 5;
+    //starts from cell 4 / 5
+    grid-row: 2 / span 2;
+    //starts from cell 2 cells down
+  }
+
+  .main-content {
+    background-color: wheat; // override the selector indiually
+    color: grey;
+    grid-column: 1 / span 3;
+    //starts cell 1 / span 3 cells from 1
+  }
+
+  .footer {
+    grid-column: 1 / -1;
+    //starts from 1 to the end of the width!
+  }
+}
+*/
+
+/*
+// METHOD 2: LINE NAMES
+
+.container {
+  width: 1000px;
+  margin: 30px auto;
+
+  display: grid;
+  grid-template-rows: [header-start] 100px [header-end box-start] 200px [box-end main-start] 400px [main-end footer-start] 100px [footer-end];
+  // grid cells are created with the decoration here. In this case the rows go down from the top > bottom by order from left to right!
+  grid-template-columns: repeat(3, [col-start] 1fr [col-end]) 200px [grid-end];
+  // and the cells here are from left to right. In this case, 3x1fr(1000px-200px/3) and 200px
+
+  grid-gap: 20px; // on both row&column!
+
+  // select all all container's children!
+  & > * {
+    background-color: lightcoral;
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+  }
+
+  .header {
+    grid-column: col-start 1 / grid-end;
+  }
+
+  .sidebar {
+    grid-column: col-end 3 / grid-end;
+    //starts from cell 4 / 5
+    grid-row: box-start / main-end;
+    //LINE NAME METHOD from box-start to main-end
+  }
+
+  .main-content {
+    background-color: wheat; // override the selector indiually
+    color: grey;
+    grid-column: col-start 1 / col-end 3;
+    //starts cell 1 / span 3 cells from 1
+  }
+
+  .footer {
+    grid-column: col-start 1 / grid-end;
+    //starts from 1 to the end of the width!
+  }
+}
+*/
+
+/* 
+// METHOD 3: NAME GRID AREAS
+*/
+.container-2 {
+  width: 1000px;
+  margin: 30px auto;
+
+  display: grid;
+  grid-template-rows: 100px 200px 400px 100px;
+  /* top to bottom grid cells are created with the decoration here. In this case the rows go down from the top > bottom by order from left to right! */
+  grid-template-columns: repeat(3, 1fr) 200px;
+  /* and the cells here are from left to right. In this case, 3x1fr(1000px-200px/3) and 200px */
+
+  grid-gap: 20px; /* on both row&column! */
+
+  /* METHOD 4 / NAMING 4 cells of GRID AREAS based on 4 x 4 cells by the grid template display above! */
+  grid-template-areas:
+    "head head head head"
+    "box box box side"
+    "main main main side"
+    "foot foot foot foot";
+}
+
+.container-2 > * {
+  background-color: darkgrey;
+  padding: 20px;
+  color: red;
+  font-size: 30px;
+  font-family: sans-serif;
+
+  display: grid;
+  place-items: center; /* or place-content / align-content: center; */
+}
+
+.header {
+  grid-area: head;
+}
+
+.sidebar {
+  grid-area: side;
+  /* how it’s done is just put the grid name there. */
+  /*
+  grid-column: 4 / 5;
+  grid-row: 2 / span 2;
+  */
+}
+
+.main-content {
+  grid-area: main;
+  /*
+  background-color: wheat; // override the selector individually
+  color: grey;
+  grid-column: 1 / span 3;
+  */
+}
+
+.footer {
+  grid-area: foot;
+  /*
+  grid-column: 1 / -1;
+  */
+}
